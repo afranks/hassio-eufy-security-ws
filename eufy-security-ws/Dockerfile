@@ -11,7 +11,7 @@ RUN \
     npm \
     jq \
     && npm install --force \
-    "https://github.com/afranks/eufy-security-client.git#develop"
+    "https://github.com/bropat/eufy-security-client.git#develop"
 
 COPY run.sh /
 RUN chmod a+x /run.sh
