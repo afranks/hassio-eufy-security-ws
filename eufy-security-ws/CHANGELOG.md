@@ -1,4 +1,4 @@
-test build
+test build2
 ## 1.7.1
 
 - Updated eufy-security-ws to version [`1.7.1`](https://github.com/bropat/eufy-security-ws/releases/tag/1.7.1)
