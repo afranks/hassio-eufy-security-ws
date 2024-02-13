@@ -10,6 +10,7 @@ RUN \
     nodejs \
     npm \
     jq \
+    git \
     && npm install --force \
     "https://github.com/bropat/eufy-security-client.git#develop"
 
